@@ -21,7 +21,7 @@ Insert this code in Properties->Custom Code:
 
 ## Usage
 
-In a calculted field, call the Javascript function using this syntax: ` calcAge(<FieldName>) `.
+In a calculated field, call the Javascript function using this syntax: ` calcAge(<FieldName>) `.
 
 ## Special Notes
 
