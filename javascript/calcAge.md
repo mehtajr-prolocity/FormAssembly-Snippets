@@ -16,8 +16,7 @@ Insert this code in Properties->Custom Code:
     }
     return age;
   }
-</script>
-```
+</script>```
 
 ## Usage
 
